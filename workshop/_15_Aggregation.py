@@ -1,5 +1,7 @@
 # This will define has-a relationship ( here both entities can exists independently)
-# Aggregation si weak association while composition is strong association
+# Aggregation is weak association while composition is strong association
+
+
 class Salary:
     def __init__(self, pay, reward):
         self.pay = pay

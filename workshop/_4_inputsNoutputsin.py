@@ -18,6 +18,7 @@ print(dir(__builtins__))
 print(max(45,5,67,7,8))
 
 #modules
+help('modules')
 import math
 print(math.sqrt(2))
 print(dir(math))

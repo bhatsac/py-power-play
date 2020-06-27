@@ -1,0 +1,10 @@
+I am working on file handling in python, this is super smooth.1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 

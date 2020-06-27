@@ -1,4 +1,4 @@
-#Inheritance
+# Inheritance
 class Polygon:
     __width = None
     __height = None
